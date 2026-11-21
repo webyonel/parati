@@ -1,0 +1,15 @@
+/* Personal images are assigned by script.js when their step is shown. */
+.photo-images-loaded .photo-slot>.photo-icon,.photo-images-loaded .photo-slot>.slot-label{display:none}
+.photo-slot[data-photo]{background-size:cover;background-position:center;background-repeat:no-repeat}
+.hero-photo[data-photo]{background-position:center 38%}
+.med-grid{grid-template-columns:1fr 1fr;grid-template-rows:1fr}
+.med-grid .tall{grid-row:auto}
+.med-grid [data-photo="img/glendy2.jpg"]{background-position:center 35%}
+.med-grid [data-photo="img/glendy3.jpg"]{background-position:center 30%}
+.travel-main{background-position:center 45%}
+.travel-small{background-position:center 45%}
+.reading-photo{background-position:center 40%}
+.cat-one{background-color:#fff;background-position:center 48%}
+.cat-two{background-color:#fff;background-position:center 48%}
+.final-photo{background-position:center 34%}
+.travel-stamp{background-color:rgba(248,243,236,.88)}

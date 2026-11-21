@@ -1,0 +1,33 @@
+@media(max-width:600px){
+  body{font-size:14px;line-height:1.55}
+  .topbar{height:54px;padding:0 18px}.brand{font-size:16px}.top-link{font-size:10px}
+  .journey-progress{padding:8px 18px;font-size:9px}
+  .hero.journey-step.active,.chapter.journey-step.active,.finale.journey-step.active{min-height:0!important;padding:22px 20px 24px;gap:16px;align-content:start}
+  .hero.journey-step.active{grid-template-columns:1fr;gap:16px}
+  .hero-photo{grid-row:1;height:185px;min-height:0;box-shadow:7px 7px 0 #eadbd1}
+  .hero-copy{grid-row:2}.hero h1{font-size:39px;line-height:1.04;margin:0 0 12px}
+  .eyebrow{font-size:9px;letter-spacing:.15em;margin-bottom:8px}
+  .hero-copy p,.chapter-copy p,.final-copy p,.cats-heading p{font-size:13px;line-height:1.58;margin-bottom:8px}
+  .hero-copy .hero-name{font-size:16px;margin:0 0 14px}
+  .hero-note{margin-top:8px}.button{padding:11px 15px;font-size:11px}
+  .chapter.journey-step.active{grid-template-columns:1fr;gap:18px}
+  .chapter-copy h2,.cats-heading h2,.final-copy h2{font-size:35px;line-height:1.08;margin-bottom:12px}
+  .chapter-mark{margin-top:10px;font-size:16px}
+  .step-controls{margin-top:14px;justify-content:space-between;gap:8px}
+  .back-button{font-size:10px}
+  .photo-grid{height:205px;gap:8px}.photo-grid .photo-slot{min-height:0}
+  .travel-photos{height:205px;grid-row:2}.travel-main{height:82%}.travel-stamp{width:65px;height:65px;font-size:7px}
+  .chapter-reading .reading-photo{height:190px;min-height:0}
+  .cats-section.journey-step.active{min-height:0!important;padding:28px 20px 24px}
+  .cats-heading{margin:0 auto 18px}.cats-heading h2{margin-bottom:9px}
+  .cats-gallery{height:190px;gap:8px}.cat-two{margin-top:20px}.cat-note{width:78px;height:78px;font-size:9px}
+  .cats-section>.step-controls{margin-top:28px}
+  .chapter-pleasures.journey-step.active{grid-template-columns:1fr;gap:16px}
+  .pleasure-cards{gap:8px}.pleasure-card{min-height:92px;padding:10px}.pleasure-card:nth-child(3){grid-column:1/-1}.pleasure-card>span{font-size:19px}.pleasure-card h3{font-size:14px;margin-top:4px}.pleasure-card p{font-size:9px}
+  .pleasure-photo{height:110px;min-height:0}
+  .chapter-pleasures>.step-controls{grid-column:auto}
+  .finale.journey-step.active{grid-template-columns:1fr;gap:16px}
+  .final-copy{grid-row:1}.final-photo{grid-row:2;height:185px;min-height:0}
+  .final-copy .signoff{font-size:15px;margin-top:14px}.signoff span{font-size:11px}
+  footer{padding:14px 18px;font-size:9px}
+}
