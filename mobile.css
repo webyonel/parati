@@ -4,7 +4,7 @@
   .journey-progress{padding:8px 18px;font-size:9px}
   .hero.journey-step.active,.chapter.journey-step.active,.finale.journey-step.active{min-height:0!important;padding:22px 20px 24px;gap:16px;align-content:start}
   .hero.journey-step.active{grid-template-columns:1fr;gap:16px}
-  .hero-photo{grid-row:1;height:185px;min-height:0;box-shadow:7px 7px 0 #eadbd1}
+  .hero-photo{grid-row:1;height:220px;min-height:0;box-shadow:7px 7px 0 #eadbd1}
   .hero-copy{grid-row:2}.hero h1{font-size:39px;line-height:1.04;margin:0 0 12px}
   .eyebrow{font-size:9px;letter-spacing:.15em;margin-bottom:8px}
   .hero-copy p,.chapter-copy p,.final-copy p,.cats-heading p{font-size:13px;line-height:1.58;margin-bottom:8px}
@@ -17,7 +17,7 @@
   .back-button{font-size:10px}
   .photo-grid{height:205px;gap:8px}.photo-grid .photo-slot{min-height:0}
   .travel-photos{height:205px;grid-row:2}.travel-main{height:82%}.travel-stamp{width:65px;height:65px;font-size:7px}
-  .chapter-reading .reading-photo{height:190px;min-height:0}
+  .chapter-reading .reading-photo{height:315px;min-height:0}
   .cats-section.journey-step.active{min-height:0!important;padding:28px 20px 24px}
   .cats-heading{margin:0 auto 18px}.cats-heading h2{margin-bottom:9px}
   .cats-gallery{height:190px;gap:8px}.cat-two{margin-top:20px}.cat-note{width:78px;height:78px;font-size:9px}
@@ -27,7 +27,7 @@
   .pleasure-photo{height:110px;min-height:0}
   .chapter-pleasures>.step-controls{grid-column:auto}
   .finale.journey-step.active{grid-template-columns:1fr;gap:16px}
-  .final-copy{grid-row:1}.final-photo{grid-row:2;height:185px;min-height:0}
+  .final-copy{grid-row:1}.final-photo{grid-row:2;height:350px;min-height:0}
   .final-copy .signoff{font-size:15px;margin-top:14px}.signoff span{font-size:11px}
   footer{padding:14px 18px;font-size:9px}
 }
